@@ -29,3 +29,4 @@
 | Bird Watcher                        | JavaScript      | Low      |September 23,2022    |
 | Two Fer                        | JavaScript      | Low      |September 25,2022    |
 | Gigasecond                        | JavaScript      | Low      |September 25,2022    |
+| Space Age                        | JavaScript      | Low      |September 25,2022    |
