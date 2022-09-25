@@ -25,4 +25,5 @@
 | High Score Board                        | JavaScript      | Low      |September 23,2022    |
 | Lasagna Master                         | JavaScript      | Low      |September 23,2022    |
 | Custom Signs                         | JavaScript      | Low      |September 23,2022    |
-| Coordinate Transformation                        | JavaScript      | Low      |September 23,2022    |
+| Coordinate Transformation                        | JavaScript      | Low      |September 24,2022    |
+| Bird Watcher                        | JavaScript      | Low      |September 23,2022    |
