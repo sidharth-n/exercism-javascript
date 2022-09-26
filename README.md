@@ -32,3 +32,4 @@
 | Space Age                        | JavaScript      | Low      |September 25,2022    |
 | Bob                        | JavaScript      | Medium      |September 25,2022    |
 | Leap                        | JavaScript      | Low      |September 25,2022    |
+| Fruit Picker                        | JavaScript      | Low      |September 26,2022    |
