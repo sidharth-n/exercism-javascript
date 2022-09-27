@@ -33,3 +33,4 @@
 | Bob                        | JavaScript      | Medium      |September 25,2022    |
 | Leap                        | JavaScript      | Low      |September 25,2022    |
 | Fruit Picker                        | JavaScript      | Low      |September 26,2022    |
+| Elyses Analytic Enchantments               | JavaScript      | Low      |September 27,2022    |
