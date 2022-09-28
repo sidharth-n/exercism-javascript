@@ -1,6 +1,6 @@
 # Exercism JavaScript programs
  ![Alt](https://upload.wikimedia.org/wikipedia/commons/c/c1/Exercism-logo.svg)
-### exercism.io
+### exercism.org
 
 
 
@@ -11,7 +11,7 @@
 
 | Problem Name                        | Language    | Level    |  Date            |
 | ----------------------------------- | ----------- | :------: |  :-----------:   |
-| [Hello World]                         | JavaScript      | Low      |Sept 23,2022    |
+| [Hello World](www.google.com)                         | JavaScript      | Low      |Sept 23,2022    |
 | Lucian's Luscious Lasagna                         | JavaScript      | Low      |Sept 23,2022    |
 | Annalyn's Infiltration                         | JavaScript      | Low      |Sept 23,2022    |
 | Freelancer Rates                         | JavaScript      | Low      |Sept 23,2022    |
