@@ -11,7 +11,7 @@
 
 | Problem Name                        | Language    | Level    |  Date            |
 | ----------------------------------- | ----------- | :------: |  :-----------:   |
-| [Hello World][1-a]                         | JavaScript      | Low      |Sept 23,2022    |
+| [Hello World]                        | JavaScript      | Low      |Sept 23,2022    |
 | [Lucian's Luscious Lasagna][1-b]                          | JavaScript      | Low      |Sept 23,2022    |
 | [Annalyn's Infiltration][1-c]                          | JavaScript      | Low      |Sept 23,2022    |
 | [Freelancer Rates][1-d]                          | JavaScript      | Low      |Sept 23,2022    |
