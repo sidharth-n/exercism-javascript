@@ -34,4 +34,7 @@
 | [Leap](./leap/)                        | Low      |Sept 25,2022    |
 | [Fruit Picker](./fruit-picker/)                        | Low      |Sept 26,2022    |
 | [Elyses Analytic Enchantments](./elyses-analytic-enchantments/)               | Low      |Sept 27,2022    |
-| [Elyses Looping Enchantments](.)               | Low      |Sept 27,2022    |
+| [Elyses Looping Enchantments](./elyses-looping-enchantments/)               | Low      |Sept 27,2022    |
+| [Resistor Color](./resistor-color/)               | Low      |Sept 27,2022    |
+| [Pangram](./pangram/)               | Low      |Sept 28,2022    |
+| [Resistor Color Duo](./resistor-color-duo/)               | Low      |Sept 28,2022    |
