@@ -9,29 +9,29 @@
 
 ##### General status of exercism problems.
 
-| Problem Name                        | Language    | Level    |  Date            |
-| ----------------------------------- | ----------- | :------: |  :-----------:   |
-| [Hello World](./hello-world/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Lucian's Luscious Lasagna](./lasagna/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Annalyn's Infiltration](./annalyns-infiltration/)                       | JavaScript      | Low      |Sept 23,2022    |
-| [Freelancer Rates](./freelancer-rates/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Poetry Club Door Policy](./poetry-club-door-policy/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Elyses Enchantments](./elyses-enchantments/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Vehicle Purchase](./vehicle-purchase/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Mixed Juices](./mixed-juices/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Lucky Numbers](./lucky-numbers/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Elyses Destructured Enchantments](./elyses-destructured-enchantments/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Amusement Park](./amusement-park/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [High Score Board](./high-score-board/)                        | JavaScript      | Low      |Sept 23,2022    |
-| [Lasagna Master](./lasagna-master/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Custom Signs](./custom-signs/)                         | JavaScript      | Low      |Sept 23,2022    |
-| [Coordinate Transformation](./coordinate-transformation/)                        | JavaScript      | Low      |Sept 24,2022    |
-| [Bird Watcher](./bird-watcher/)                        | JavaScript      | Low      |Sept 23,2022    |
-| [Two Fer](./two-fer/)                        | JavaScript      | Low      |Sept 25,2022    |
-| [Gigasecond](./gigasecond/)                        | JavaScript      | Low      |Sept 25,2022    |
-| [Space Age](./space-age/)                        | JavaScript      | Low      |Sept 25,2022    |
-| [Bob](./bob/)                        | JavaScript      | Medium      |Sept 25,2022    |
-| [Leap](./leap/)                        | JavaScript      | Low      |Sept 25,2022    |
-| [Fruit Picker](./fruit-picker/)                        | JavaScript      | Low      |Sept 26,2022    |
-| [Elyses Analytic Enchantments](./elyses-analytic-enchantments/)               | JavaScript      | Low      |Sept 27,2022    |
-| [Elyses Looping Enchantments](./elyses-looping-enchantments/)               | JavaScript      | Low      |Sept 27,2022    |
+| Problem Name                        | Level    |  Date            |
+| ----------------------------------- | :------: |  :-----------:   |
+| [Hello World](./hello-world/)                         | Low      |Sept 23,2022    |
+| [Lucian's Luscious Lasagna](./lasagna/)                         | Low      |Sept 23,2022    |
+| [Annalyn's Infiltration](./annalyns-infiltration/)                       | Low      |Sept 23,2022    |
+| [Freelancer Rates](./freelancer-rates/)                         | Low      |Sept 23,2022    |
+| [Poetry Club Door Policy](./poetry-club-door-policy/)                         | Low      |Sept 23,2022    |
+| [Elyses Enchantments](./elyses-enchantments/)                         | Low      |Sept 23,2022    |
+| [Vehicle Purchase](./vehicle-purchase/)                         | Low      |Sept 23,2022    |
+| [Mixed Juices](./mixed-juices/)                         | Low      |Sept 23,2022    |
+| [Lucky Numbers](./lucky-numbers/)                         | Low      |Sept 23,2022    |
+| [Elyses Destructured Enchantments](./elyses-destructured-enchantments/)                         | Low      |Sept 23,2022    |
+| [Amusement Park](./amusement-park/)                         | Low      |Sept 23,2022    |
+| [High Score Board](./high-score-board/)                        | Low      |Sept 23,2022    |
+| [Lasagna Master](./lasagna-master/)                         | Low      |Sept 23,2022    |
+| [Custom Signs](./custom-signs/)                         | Low      |Sept 23,2022    |
+| [Coordinate Transformation](./coordinate-transformation/)                        | Low      |Sept 24,2022    |
+| [Bird Watcher](./bird-watcher/)                        | Low      |Sept 23,2022    |
+| [Two Fer](./two-fer/)                        | Low      |Sept 25,2022    |
+| [Gigasecond](./gigasecond/)                        | Low      |Sept 25,2022    |
+| [Space Age](./space-age/)                        | Low      |Sept 25,2022    |
+| [Bob](./bob/)                        | Medium      |Sept 25,2022    |
+| [Leap](./leap/)                        | Low      |Sept 25,2022    |
+| [Fruit Picker](./fruit-picker/)                        | Low      |Sept 26,2022    |
+| [Elyses Analytic Enchantments](./elyses-analytic-enchantments/)               | Low      |Sept 27,2022    |
+| [Elyses Looping Enchantments](.)               | Low      |Sept 27,2022    |
