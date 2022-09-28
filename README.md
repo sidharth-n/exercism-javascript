@@ -11,27 +11,27 @@
 
 | Problem Name                        | Language    | Level    |  Date            |
 | ----------------------------------- | ----------- | :------: |  :-----------:   |
-| Hello World                         | JavaScript      | Low      |September 23,2022    |
-| Lucian's Luscious Lasagna                         | JavaScript      | Low      |September 23,2022    |
-| Annalyn's Infiltration                         | JavaScript      | Low      |September 23,2022    |
-| Freelancer Rates                         | JavaScript      | Low      |September 23,2022    |
-| Poetry Club Door Policy                         | JavaScript      | Low      |September 23,2022    |
-| Elyses Enchantments                         | JavaScript      | Low      |September 23,2022    |
-| Vehicle Purchase                         | JavaScript      | Low      |September 23,2022    |
-| Mixed Juices                         | JavaScript      | Low      |September 23,2022    |
-| Lucky Numbers                         | JavaScript      | Low      |September 23,2022    |
-| Elyses Destructured Enchantments                         | JavaScript      | Low      |September 23,2022    |
-| Amusement Park                         | JavaScript      | Low      |September 23,2022    |
-| High Score Board                        | JavaScript      | Low      |September 23,2022    |
-| Lasagna Master                         | JavaScript      | Low      |September 23,2022    |
-| Custom Signs                         | JavaScript      | Low      |September 23,2022    |
-| Coordinate Transformation                        | JavaScript      | Low      |September 24,2022    |
-| Bird Watcher                        | JavaScript      | Low      |September 23,2022    |
-| Two Fer                        | JavaScript      | Low      |September 25,2022    |
-| Gigasecond                        | JavaScript      | Low      |September 25,2022    |
-| Space Age                        | JavaScript      | Low      |September 25,2022    |
-| Bob                        | JavaScript      | Medium      |September 25,2022    |
-| Leap                        | JavaScript      | Low      |September 25,2022    |
-| Fruit Picker                        | JavaScript      | Low      |September 26,2022    |
-| Elyses Analytic Enchantments               | JavaScript      | Low      |September 27,2022    |
-| Elyses Looping Enchantments               | JavaScript      | Low      |September 27,2022    |
+| [Hello World]()                         | JavaScript      | Low      |Sept 23,2022    |
+| Lucian's Luscious Lasagna                         | JavaScript      | Low      |Sept 23,2022    |
+| Annalyn's Infiltration                         | JavaScript      | Low      |Sept 23,2022    |
+| Freelancer Rates                         | JavaScript      | Low      |Sept 23,2022    |
+| Poetry Club Door Policy                         | JavaScript      | Low      |Sept 23,2022    |
+| Elyses Enchantments                         | JavaScript      | Low      |Sept 23,2022    |
+| Vehicle Purchase                         | JavaScript      | Low      |Sept 23,2022    |
+| Mixed Juices                         | JavaScript      | Low      |Sept 23,2022    |
+| Lucky Numbers                         | JavaScript      | Low      |Sept 23,2022    |
+| Elyses Destructured Enchantments                         | JavaScript      | Low      |Sept 23,2022    |
+| [Amusement Park](https://github.com/sidharth-n/exercism-javascript/tree/master/amusement-park)                         | JavaScript      | Low      |Sept 23,2022    |
+| High Score Board                        | JavaScript      | Low      |Sept 23,2022    |
+| Lasagna Master                         | JavaScript      | Low      |Sept 23,2022    |
+| Custom Signs                         | JavaScript      | Low      |Sept 23,2022    |
+| Coordinate Transformation                        | JavaScript      | Low      |Sept 24,2022    |
+| Bird Watcher                        | JavaScript      | Low      |Sept 23,2022    |
+| Two Fer                        | JavaScript      | Low      |Sept 25,2022    |
+| Gigasecond                        | JavaScript      | Low      |Sept 25,2022    |
+| Space Age                        | JavaScript      | Low      |Sept 25,2022    |
+| Bob                        | JavaScript      | Medium      |Sept 25,2022    |
+| Leap                        | JavaScript      | Low      |Sept 25,2022    |
+| Fruit Picker                        | JavaScript      | Low      |Sept 26,2022    |
+| Elyses Analytic Enchantments               | JavaScript      | Low      |Sept 27,2022    |
+| Elyses Looping Enchantments               | JavaScript      | Low      |Sept 27,2022    |
