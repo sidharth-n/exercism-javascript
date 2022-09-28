@@ -1,6 +1,6 @@
 # Exercism JavaScript programs
  ![Alt](https://upload.wikimedia.org/wikipedia/commons/c/c1/Exercism-logo.svg)
-### exercism.org
+### [exercism.org](https://exercism.org/)
 
 
 
@@ -11,11 +11,11 @@
 
 | Problem Name                        | Language    | Level    |  Date            |
 | ----------------------------------- | ----------- | :------: |  :-----------:   |
-| [Hello World](./coordinate-transformation/)                         | JavaScript      | Low      |Sept 23,2022    |
-| Lucian's Luscious Lasagna                         | JavaScript      | Low      |Sept 23,2022    |
-| Annalyn's Infiltration                         | JavaScript      | Low      |Sept 23,2022    |
-| Freelancer Rates                         | JavaScript      | Low      |Sept 23,2022    |
-| Poetry Club Door Policy                         | JavaScript      | Low      |Sept 23,2022    |
+| [Hello World](./hello-world/)                         | JavaScript      | Low      |Sept 23,2022    |
+| [Lucian's Luscious Lasagna](./lasagna/)                         | JavaScript      | Low      |Sept 23,2022    |
+| [Annalyn's Infiltration](./annalyns-infiltration/)                       | JavaScript      | Low      |Sept 23,2022    |
+| [Freelancer Rates](./freelancer-rates/)                         | JavaScript      | Low      |Sept 23,2022    |
+| [Poetry Club Door Policy](./poetry-club-door-policy/)                         | JavaScript      | Low      |Sept 23,2022    |
 | Elyses Enchantments                         | JavaScript      | Low      |Sept 23,2022    |
 | Vehicle Purchase                         | JavaScript      | Low      |Sept 23,2022    |
 | Mixed Juices                         | JavaScript      | Low      |Sept 23,2022    |
