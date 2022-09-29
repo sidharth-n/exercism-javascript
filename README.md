@@ -40,3 +40,4 @@
 | [Resistor Color Duo](./resistor-color-duo/)               | Low      |Sept 28,2022    |
 | [Windowing System](./windowing-system/)               | Medium      |Sept 29,2022    |
 | [Ozan's Playlist](./ozans-playlist/)               | Low      |Sept 29,2022    |
+| [Factory Sensors](./factory-sensors/)               | Medium      |Sept 29,2022    |
