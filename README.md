@@ -38,3 +38,4 @@
 | [Resistor Color](./resistor-color/)               | Low      |Sept 27,2022    |
 | [Pangram](./pangram/)               | Low      |Sept 28,2022    |
 | [Resistor Color Duo](./resistor-color-duo/)               | Low      |Sept 28,2022    |
+| [Windowing System](./windowing-system/)               | Medium      |Sept 29,2022    |
