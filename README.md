@@ -41,3 +41,4 @@
 | [Windowing System](./windowing-system/)               | Medium      |Sept 29,2022    |
 | [Ozan's Playlist](./ozans-playlist/)               | Low      |Sept 29,2022    |
 | [Factory Sensors](./factory-sensors/)               | Medium      |Sept 29,2022    |
+| [Elyses Transformative Enchantments](./elyses-transformative-enchantments/)               | Medium      |Sept 29,2022    |
