@@ -44,3 +44,4 @@
 | [Elyses Transformative Enchantments](./elyses-transformative-enchantments/)               | Medium      |Sept 29,2022    |
 | [Rna Transcription](./rna-transcription/)               | Low      |Sept 30,2022    |
 | [Reverse String](./reverse-string/)               | Low      |Sept 2,2022    |
+| [Collatz Conjecture](./collatz-conjecture/)               | Low      |Sept 2,2022    |
