@@ -45,3 +45,4 @@
 | [Rna Transcription](./rna-transcription/)               | Low      |Sept 30,2022    |
 | [Reverse String](./reverse-string/)               | Low      |Sept 2,2022    |
 | [Collatz Conjecture](./collatz-conjecture/)               | Low      |Sept 2,2022    |
+| [Traingle](./triangle/)               | Medium      |Sept 3,2022    |
