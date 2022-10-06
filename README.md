@@ -49,3 +49,4 @@
 | [Pascals Triangle](./pascals-triangle/)               | Medium      |Oct 5,2022    |
 | [Matrix](./matrix/)               | Medium      |Oct 5,2022    |
 | [Hamming](./hamming/)               | Low      |Oct 6,2022    |
+| [Raindrops](./raindrops/)               | Low      |Oct 6,2022    |
