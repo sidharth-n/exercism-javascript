@@ -48,3 +48,4 @@
 | [Traingle](./triangle/)               | Medium      |Oct 3,2022    |
 | [Pascals Triangle](./pascals-triangle/)               | Medium      |Oct 5,2022    |
 | [Matrix](./matrix/)               | Medium      |Oct 5,2022    |
+| [Hamming](./hamming/)               | Low      |Oct 6,2022    |
