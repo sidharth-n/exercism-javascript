@@ -47,3 +47,4 @@
 | [Collatz Conjecture](./collatz-conjecture/)               | Low      |Oct 2,2022    |
 | [Traingle](./triangle/)               | Medium      |Oct 3,2022    |
 | [Pascals Triangle](./pascals-triangle/)               | Medium      |Oct 5,2022    |
+| [Matrix](./matrix/)               | Medium      |Oct 5,2022    |
