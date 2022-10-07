@@ -53,3 +53,4 @@
 | [Difference of Squares](./difference-of-squares/)               | Low      |Oct 6,2022    |
 | [Perfect Numbers](./perfect-numbers/)               | Low      |Oct 6,2022    |
 | [Acronym](./acronym/)               | Low      |Oct 7,2022    |
+| [Isogram](./isogram/)               | Low      |Oct 7,2022    |
