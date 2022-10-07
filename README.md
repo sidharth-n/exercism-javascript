@@ -54,3 +54,4 @@
 | [Perfect Numbers](./perfect-numbers/)               | Low      |Oct 6,2022    |
 | [Acronym](./acronym/)               | Low      |Oct 7,2022    |
 | [Isogram](./isogram/)               | Low      |Oct 7,2022    |
+| [Anagram](./anagram/)               | Low      |Oct 7,2022    |
