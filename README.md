@@ -55,3 +55,4 @@
 | [Acronym](./acronym/)               | Low      |Oct 7,2022    |
 | [Isogram](./isogram/)               | Low      |Oct 7,2022    |
 | [Anagram](./anagram/)               | Low      |Oct 7,2022    |
+| [Phone Number](./phone-number/)               | Low      |Oct 8,2022    |
