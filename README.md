@@ -59,3 +59,4 @@
 | [Transpose](./transpose/)               | Medium      |Oct 8,2022    |
 | [Series](./series/)               | Low      |Oct 9,2022    |
 | [Etl](./etl/)               | Low      |Oct 9,2022    |
+| [Largest Series Product](./largest-series-product/)               | Medium      |Oct 9,2022    |
