@@ -62,3 +62,4 @@
 | [Largest Series Product](./largest-series-product/)               | Medium      |Oct 9,2022    |
 | [Amstrong Numbers](./armstrong-numbers/)               | Low      |Oct 11,2022    |
 | [Run Length Encoding](./run-length-encoding/)               | Medium      |Oct 11,2022    |
+| [Darts](./darts/)               | Medium      |Oct 11,2022    |
