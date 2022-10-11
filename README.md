@@ -63,3 +63,4 @@
 | [Amstrong Numbers](./armstrong-numbers/)               | Low      |Oct 11,2022    |
 | [Run Length Encoding](./run-length-encoding/)               | Medium      |Oct 11,2022    |
 | [Darts](./darts/)               | Medium      |Oct 11,2022    |
+| [Square Root](./square-root/)               | Medium      |Oct 11,2022    |
