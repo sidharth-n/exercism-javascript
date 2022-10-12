@@ -66,3 +66,4 @@
 | [Square Root](./square-root/)               | Medium      |Oct 11,2022    |
 | [Nth Prime](./nth-prime/)               | Medium      |Oct 11,2022    |
 | [Nucleotide Count](./nucleotide-count/)               | Medium      |Oct 12,2022    |
+| [Scrabble Score](./scrabble-score/)               | Medium      |Oct 12,2022    |
