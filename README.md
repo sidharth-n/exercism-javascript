@@ -69,3 +69,4 @@
 | [Scrabble Score](./scrabble-score/)               | Medium      |Oct 12,2022    |
 | [Luhn](./luhn/)               | Medium      |Oct 13,2022    |
 | [Proverb](./proverb/)               | Medium      |Oct 13,2022    |
+| [Sum of Multiples](./sum-of-multiples/)               | Medium      |Oct 13,2022    |
