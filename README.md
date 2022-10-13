@@ -67,3 +67,4 @@
 | [Nth Prime](./nth-prime/)               | Medium      |Oct 11,2022    |
 | [Nucleotide Count](./nucleotide-count/)               | Medium      |Oct 12,2022    |
 | [Scrabble Score](./scrabble-score/)               | Medium      |Oct 12,2022    |
+| [Luhn](./luhn/)               | Medium      |Oct 13,2022    |
