@@ -68,3 +68,4 @@
 | [Nucleotide Count](./nucleotide-count/)               | Medium      |Oct 12,2022    |
 | [Scrabble Score](./scrabble-score/)               | Medium      |Oct 12,2022    |
 | [Luhn](./luhn/)               | Medium      |Oct 13,2022    |
+| [Proverb](./proverb/)               | Medium      |Oct 13,2022    |
