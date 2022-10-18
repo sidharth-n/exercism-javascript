@@ -73,3 +73,5 @@
 | [Allergies](./allergies/)               | Medium      |Oct 14,2022    |
 | [Rotational Cipher](./rotational-cipher/)               | Medium      |Oct 14,2022    |
 | [Diffie Hellman](./diffie-hellman/)               | Medium      |Oct 14,2022    |
+| [Prime Factors](./prime-factors/)               | Medium      |Oct 17,2022    |
+| [Grains](./grains/)               | Medium      |Oct 17,2022    |
