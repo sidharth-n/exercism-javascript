@@ -72,4 +72,4 @@
 | [Sum of Multiples](./sum-of-multiples/)               | Medium      |Oct 13,2022    |
 | [Allergies](./allergies/)               | Medium      |Oct 14,2022    |
 | [Rotational Cipher](./rotational-cipher/)               | Medium      |Oct 14,2022    |
-| [Diffie Hellman](./diffie-hellman/)               | Low      |Oct 14,2022    |
+| [Diffie Hellman](./diffie-hellman/)               | Medium      |Oct 14,2022    |
