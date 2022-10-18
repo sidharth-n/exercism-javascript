@@ -76,3 +76,4 @@
 | [Prime Factors](./prime-factors/)               | Medium      |Oct 17,2022    |
 | [Grains](./grains/)               | Medium      |Oct 17,2022    |
 | [ISBN Verifier](./isbn-verifier/)               | Medium      |Oct 18,2022    |
+| [Yacht](./yacht/)               | Medium      |Oct 18,2022    |
