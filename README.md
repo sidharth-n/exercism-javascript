@@ -79,3 +79,4 @@
 | [Yacht](./yacht/)               | Medium      |Oct 18,2022    |
 | [Robot Simulator](./robot-simulator/)               | Medium      |Oct 19,2022    |
 | [All Your Base](./all-your-base/)               | Medium      |Oct 19,2022    |
+| [Minesweeper](./minesweeper/)               | Hard      |Oct 19,2022    |
