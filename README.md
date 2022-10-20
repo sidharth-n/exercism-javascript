@@ -82,3 +82,4 @@
 | [Minesweeper](./minesweeper/)               | Hard      |Oct 19,2022    |
 | [Grade School](./grade-school/)               | Medium      |Oct 20,2022    |
 | [Robot Name](./robot-name/)               | Medium      |Oct 20,2022    |
+| [Secret Handshake](./secret-handshake/)               | Medium      |Oct 20,2022    |
