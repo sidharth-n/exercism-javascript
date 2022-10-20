@@ -85,3 +85,4 @@
 | [Secret Handshake](./secret-handshake/)               | Medium      |Oct 20,2022    |
 | [Bank Account](./bank-account/)               | Medium      |Oct 20,2022    |
 | [Complex Numbers](./complex-numbers/)               | Medium      |Oct 20,2022    |
+| [Twelve Days](./twelve-days/)               | Medium      |Oct 20,2022    |
