@@ -86,3 +86,4 @@
 | [Bank Account](./bank-account/)               | Medium      |Oct 20,2022    |
 | [Complex Numbers](./complex-numbers/)               | Medium      |Oct 20,2022    |
 | [Twelve Days](./twelve-days/)               | Medium      |Oct 20,2022    |
+| [Beer Song](./beer-song/)               | Medium      |Oct 21,2022    |
