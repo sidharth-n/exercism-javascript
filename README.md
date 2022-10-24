@@ -89,3 +89,4 @@
 | [Beer Song](./beer-song/)               | Medium      |Oct 21,2022    |
 | [Resistor Color Trio](./resistor-color-duo/)               | Medium      |Oct 21,2022    |
 | [Rational Numbers](./rational-numbers/)               | Medium      |Oct 21,2022    |
+| [Rational Numbers](./rational-numbers/)               | Medium      |Oct 21,2022    |
