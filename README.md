@@ -92,3 +92,4 @@
 | [Wordy](./wordy/)               | Medium      |Oct 24,2022    |
 | [Clock](./clock/)               | Medium      |Oct 25,2022    |
 | [Meetup](./meetup/)               | Medium      |Oct 25,2022    |
+| [Word Count](./word-count/)               | Medium      |Oct 25,2022    |
