@@ -90,3 +90,5 @@
 | [Resistor Color Trio](./resistor-color-duo/)               | Medium      |Oct 21,2022    |
 | [Rational Numbers](./rational-numbers/)               | Medium      |Oct 21,2022    |
 | [Wordy](./wordy/)               | Medium      |Oct 24,2022    |
+| [Clock](./clock/)               | Medium      |Oct 25,2022    |
+| [Meetup](./meetup/)               | Medium      |Oct 25,2022    |
