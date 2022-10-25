@@ -93,3 +93,4 @@
 | [Clock](./clock/)               | Medium      |Oct 25,2022    |
 | [Meetup](./meetup/)               | Medium      |Oct 25,2022    |
 | [Word Count](./word-count/)               | Medium      |Oct 25,2022    |
+| [Pythagorean Triplet](./pythagorean-triplet/)               | Medium      |Oct 25,2022    |
