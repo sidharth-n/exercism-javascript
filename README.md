@@ -94,3 +94,4 @@
 | [Meetup](./meetup/)               | Medium      |Oct 25,2022    |
 | [Word Count](./word-count/)               | Medium      |Oct 25,2022    |
 | [Pythagorean Triplet](./pythagorean-triplet/)               | Medium      |Oct 25,2022    |
+| [Matching Brackets](./matching-brackets/)               | Medium      |Oct 26,2022    |
