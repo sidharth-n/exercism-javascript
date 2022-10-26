@@ -96,3 +96,4 @@
 | [Pythagorean Triplet](./pythagorean-triplet/)               | Medium      |Oct 25,2022    |
 | [Matching Brackets](./matching-brackets/)               | Medium      |Oct 26,2022    |
 | [Pig Latin](./pig-latin/)               | Medium      |Oct 26,2022    |
+| [Palindrome Products](./palindrome-products/)               | Medium      |Oct 26,2022    |
