@@ -100,3 +100,4 @@
 | [Custom Set](./custom-set/)               | Medium      |Oct 27,2022    |
 | [Saddle Points](./saddle-points/)               | Medium      |Oct 27,2022    |
 | [Say](./say/)               | Medium      |Oct 27,2022    |
+| [Spiral Matrix](./spiral-matrix/)               | Medium      |Oct 27,2022    |
