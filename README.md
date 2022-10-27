@@ -98,3 +98,4 @@
 | [Pig Latin](./pig-latin/)               | Medium      |Oct 26,2022    |
 | [Palindrome Products](./palindrome-products/)               | Medium      |Oct 26,2022    |
 | [Custom Set](./custom-set/)               | Medium      |Oct 27,2022    |
+| [Saddle Points](./saddle-points/)               | Medium      |Oct 27,2022    |
