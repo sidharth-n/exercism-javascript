@@ -104,3 +104,4 @@
 | [D&D Character](./dnd-character/)               | Low      |Oct 28,2022    |
 | [Protien Translation](./protein-translation/)               | Low      |Oct 28,2022    |
 | [Tournament](./tournament/)               | Medium      |Oct 28,2022    |
+| [High Scores](./high-scores/)               | Low      |Oct 28,2022    |
