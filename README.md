@@ -101,3 +101,4 @@
 | [Saddle Points](./saddle-points/)               | Medium      |Oct 27,2022    |
 | [Say](./say/)               | Medium      |Oct 27,2022    |
 | [Spiral Matrix](./spiral-matrix/)               | Medium      |Oct 27,2022    |
+| [D&D Character](./dnd-character/)               | Easy      |Oct 28,2022    |
