@@ -107,3 +107,4 @@
 | [High Scores](./high-scores/)               | Low      |Oct 28,2022    |
 | [Knapsack](./knapsack/)               | Medium      |Oct 29,2022    |
 | [Kindergarten Garden](./kindergarten-garden/)               | Medium      |Oct 29,2022    |
+| [Roman Numerals](./roman-numerals/)               | Low      |Oct 29,2022    |
