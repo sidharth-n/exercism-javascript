@@ -110,3 +110,4 @@
 | [Roman Numerals](./roman-numerals/)               | Low      |Oct 29,2022    |
 | [Strain](./strain/)               | Medium      |Oct 30,2022    |
 | [Sieve](./sieve/)               | Medium      |Oct 30,2022    |
+| [Binary Search](./binary-search/)               | Medium      |Oct 30,2022    |
