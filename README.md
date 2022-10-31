@@ -111,3 +111,4 @@
 | [Strain](./strain/)               | Medium      |Oct 30,2022    |
 | [Sieve](./sieve/)               | Medium      |Oct 30,2022    |
 | [Binary Search](./binary-search/)               | Medium      |Oct 30,2022    |
+| [Diamond](./diamond/)               | Medium      |Oct 31,2022    |
