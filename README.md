@@ -112,3 +112,4 @@
 | [Sieve](./sieve/)               | Medium      |Oct 30,2022    |
 | [Binary Search](./binary-search/)               | Medium      |Oct 30,2022    |
 | [Diamond](./diamond/)               | Medium      |Oct 31,2022    |
+| [House](./house/)               | Medium      |Nov 1,2022    |
