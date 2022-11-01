@@ -114,3 +114,4 @@
 | [Diamond](./diamond/)               | Medium      |Oct 31,2022    |
 | [House](./house/)               | Medium      |Nov 1,2022    |
 | [Food Chain](./food-chain/)               | Medium      |Nov 1,2022    |
+| [Simple Cipher](./simple-cipher/)               | Medium      |Nov 1,2022    |
