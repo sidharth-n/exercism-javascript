@@ -116,3 +116,4 @@
 | [Food Chain](./food-chain/)               | Medium      |Nov 1,2022    |
 | [Simple Cipher](./simple-cipher/)               | Medium      |Nov 1,2022    |
 | [Atbash Cipher](./atbash-cipher/)               | Medium      |Nov 2,2022    |
+| [Affine Cipher](./affine-cipher/)               | Medium      |Nov 2,2022    |
