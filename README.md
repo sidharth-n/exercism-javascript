@@ -117,3 +117,4 @@
 | [Simple Cipher](./simple-cipher/)               | Medium      |Nov 1,2022    |
 | [Atbash Cipher](./atbash-cipher/)               | Medium      |Nov 2,2022    |
 | [Affine Cipher](./affine-cipher/)               | Medium      |Nov 2,2022    |
+| [List Ops](./list-ops/)               | Medium      |Nov 3,2022    |
