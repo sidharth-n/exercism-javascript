@@ -120,3 +120,4 @@
 | [List Ops](./list-ops/)               | Medium      |Nov 3,2022    |
 | [Linked List](./linked-list/)               | Medium      |Nov 3,2022    |
 | [Sublist](./sublist/)               | Medium      |Nov 3,2022    |
+| [Flatten Array](./flatten-array/)               | Medium      |Nov 3,2022    |
