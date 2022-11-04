@@ -121,3 +121,5 @@
 | [Linked List](./linked-list/)               | Medium      |Nov 3,2022    |
 | [Sublist](./sublist/)               | Medium      |Nov 3,2022    |
 | [Flatten Array](./flatten-array/)               | Medium      |Nov 3,2022    |
+| [Word Search](./word-search/)               | Hard      |Nov 4,2022    |
+| [Crypto Square](./crypto-square/)               | Hard      |Nov 4,2022    |
